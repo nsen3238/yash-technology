@@ -622,7 +622,7 @@
 
 .quick-link {
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     justify-content: space-between;
     padding: 40px 0px;
     border-bottom: 2px solid grey;
@@ -636,7 +636,7 @@
 
 .subscribe {
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     /* justify-content: space-between; */
     padding: 40px 0px;
     border-bottom: 2px solid grey;
